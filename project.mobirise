@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mailus",
-    "currentPage": "faq.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -51,7 +51,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -1051,7 +1052,7 @@
     "aboutus.html": {
       "settings": {
         "title": "About Us",
-        "order": "5"
+        "order": "4"
       },
       "components": [
         {
@@ -1593,7 +1594,7 @@
     "pricing.html": {
       "settings": {
         "title": "Pricing",
-        "order": "4"
+        "order": "2"
       },
       "components": [
         {
@@ -2685,7 +2686,7 @@
     "services.html": {
       "settings": {
         "title": "Services",
-        "order": "2"
+        "order": "1"
       },
       "components": [
         {
@@ -3292,7 +3293,7 @@
     "faq.html": {
       "settings": {
         "title": "Faq",
-        "order": "1"
+        "order": "5"
       },
       "components": [
         {
