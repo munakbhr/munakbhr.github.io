@@ -1,0 +1,5 @@
+Sitemap: https://mailus.in/sitemap.xml
+User-agent: *
+Disallow: /cgi-bin
+
+

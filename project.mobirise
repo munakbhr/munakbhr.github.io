@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mailus",
-    "currentPage": "index.html",
+    "currentPage": "contactus.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,11 +45,11 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "wt7sxadlnh",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "mbrsiteDomain": "ohoiis2omh",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "siteUrl": "https://mailus.in",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -64,7 +64,7 @@
     },
     "gdpr": false,
     "publishChangesOnly": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "Sitemap: https://mailus.in/sitemap.xml\nUser-agent: *\nDisallow: /cgi-bin\n\n\n",
     "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-XW952XN9RN\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-XW952XN9RN');\n</script>"
   },
   "pages": {
